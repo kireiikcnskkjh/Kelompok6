@@ -1,6 +1,11 @@
 /* =====================================
    SMART CAR USING 3 ULTRASONIC
-   KELOMPOK 5
+   KELOMPOK 6
+   Ady Marsha Maulana (2510816110001)
+   Siti Rabi'ah Kamil Putri (2510819120004) 
+   Nabilla (2510819120005)
+   Aisyah Dini Nur'azmi (2510819320001)
+   Muhammad nor Fadillah (2510816210004)
    ===================================== */
 
 // ===== ULTRASONIC SENSOR =====
